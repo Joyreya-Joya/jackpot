@@ -1,0 +1,797 @@
+/* ===============**** HOME PAGE ***======= */
+/* ---------------------------------------------------- */
+@media(min-width:1200px){
+    .reg {
+        width: 380px;
+    }
+    .enjoy {
+        width: 380px;
+    }
+    .get_red {
+        width: 380px;
+    }
+}
+
+/* large device start */
+@media(min-width:992px) and (max-width:1199.98px){
+    .nav-item .nav-link {
+        margin-left: 23px;
+    }
+    .buttonsss {
+        margin-left: 40px;
+    }
+    .faq_head {
+        margin-left: 30px;
+        width: 370px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0rem;
+        padding-left: 0.5rem;
+    }
+    #subs_payment {
+        padding-bottom: 32px;
+    }
+    .email_input .form-control {
+        width: 440px;
+    }
+    .enjoy {
+        width: 333px;
+    }
+    .reg {
+        width: 310px;
+    }
+    .get_red {
+        width: 310px;
+    }
+    .chose_btn .game_btn a {
+        padding-left: 20px;
+        padding-right: 20px;;
+    }
+    .timer_text p {
+        line-height: 30px;
+        margin-top: 8px;
+    }
+
+}
+
+/* large device end */
+/* ---------------------------------------------------- */
+/* Medium  device start */
+@media(min-width:768px) and (max-width:991.98px){
+    .banner_texts h6 {
+        margin-left: 30px;
+        margin-bottom: -20px;
+    }
+    .banner_texts p {
+        
+        width: 368px;
+        margin: -20px 0px 30px 32px;
+    }
+    .buttonsss {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .buttonsss a {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .btn_play .btn_log {
+        margin-left: 0px;
+    }
+    .btn_play {
+        width: 410px;
+    }
+    #banner {
+        padding-top: 160px;
+        padding-bottom: 200px;
+    }
+    .banner_img {
+        top: 210px;
+    }
+    .reg {
+        width: 240px;
+    }
+    .get_red {
+        width: 240px;
+    }
+    .enjoy {
+        width: 240px;
+    }
+    .banner_absolute {
+        bottom: -280px;
+    }
+    #free_spin {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .free_spin_head {
+        margin-top: 70px;
+    }
+    .pric_itm_head .reg_get_en_texts h4 {
+        margin-bottom: 16px;
+    }
+    .reg_get_en_texts h4 {
+        font-size: 26px;
+    }
+    .pric_itm_head .reg_get_en_texts h5 {
+        font-size: 40px;
+    }
+    .pric_itm_head .reg_get_en_texts p {
+        font-size: 12px;
+        padding-top: 3px;
+        padding-bottom: 15px;
+    }
+    .pric_item_bottom {
+        padding-top: 16px;
+    }
+    .pric_item_bottom p {
+        font-size: 13px;
+        padding-bottom: 15px;
+    }
+    .chose_btn .game_btn a {
+        font-size: 14px;
+        padding-left: 17px;
+        padding-right: 17px;
+    }
+    .chose_btn {
+        bottom: -50px;
+    }
+    .faq_head {
+        padding-left: 150px;
+        padding-right: 100px;
+    }
+    .tour_head .faq_head {
+        padding-left: 180px;
+        padding-right: 80px;
+    }
+    .country_flag .w-100 {
+        width: 40% !important;
+    }
+    .email_input .form-control {
+        width: 280px;
+    }
+    .about_home_icons a {
+        width: 60px;
+        margin-right: 20px;;
+        margin-bottom: 20px;
+    }
+    .footer_border {
+        margin-top: 40px;
+    }
+}
+
+/* Medium device end */
+/* ---------------------------------------------------- */
+/* Small device start */
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar-brand  .img-fluid {
+        max-width: 75%;
+    }
+    .bg {
+        padding: 6px 20px 20px 20px;
+    }
+    .nav-item .nav-link {
+        font-size: 15px;
+        margin-left: 0px;
+        line-height: 12px;
+    }
+    .navbar-collapse{
+        margin-top: 10px;
+    }
+    .buttonsss {
+        margin-left: 0px;
+        margin-top: 10px;
+        justify-content: center;
+    }
+    #banner {
+        padding-top: 160px;
+        padding-bottom: 140px;
+    }
+    .banner_img {
+        top: 160px;
+    }
+    .banner_texts .img-fluid {
+        max-width: 85%;
+    }
+    .banner_texts h6 {
+        margin-left: 28px;
+        margin-bottom: -12px;
+    }
+    .banner_texts p {
+        width: 260px;
+        margin: -15px 0px 25px 24px;
+    }
+    .banner_absolute {
+        bottom: -238px;
+    }
+    .btn_play {
+        width: 212px;
+    }
+    .reg {
+        width: 192px;
+    }
+    .get_red {
+        width: 185px;
+    }
+    .enjoy {
+        width: 165px;
+    }
+    .reg_get_en_texts p {
+        margin-top: 0px;
+        line-height: 20px;
+    }
+    .reg_get_en_texts h4 {
+        margin-top: 10px;
+        margin-bottom: 13px;
+    }
+    .reg_get_en_texts img {
+        padding-top: 17px;
+    }
+    #free_spin {
+        padding-top: 70px;
+    }
+    .free_spin_head {
+        width: 300px;
+        margin-top: 110px;
+        margin-left: -50px;
+    }
+    .free_spin_texts p {
+        font-size: 14px;
+        line-height: 24px;
+        padding-left: 40px;
+        margin-top: -20px;
+    }
+    .spin_p {
+        padding-bottom: 30px;
+    }
+    .claim .game_btn {
+        margin-left: 40px;
+    }
+    .pric_hover_head {
+        width: 100%;
+    }
+    .pric_itm_head .reg_get_en_texts h4 {
+        margin-top: 0px;
+        margin-bottom: 16px;
+    }
+    .pric_itm_head .reg_get_en_texts h5 {
+        font-size: 42px;
+    }
+    .pric_itm_head .reg_get_en_texts p {
+        padding-bottom: 20px;
+    }
+    .pric_item_bottom p {
+        padding-bottom: 24px;
+    }
+    .pricing_item {
+        margin-bottom: 40px;
+    }
+    .faq_head {
+        margin-left: 45px;
+    }
+    .offer {
+        margin-bottom: 30px;
+    }
+    .foot_links_list a {
+        margin-bottom: 10px;
+    }
+    .about_home {
+        margin-bottom: 60px;
+    }
+    
+    .important_links {
+        margin-bottom: 40px;
+    }
+    .info_up_down {
+        margin-bottom: 15px;
+    }
+    .footer_border {
+        margin-top: 40px;
+    }
+    #subs_payment {
+        padding-bottom: 32px;
+    }
+
+}
+
+/* Small device end */
+/* ---------------------------------------------------- */
+/* Extra small device start */
+@media(max-width:575.98px){
+  .navbar-brand  .img-fluid {
+        max-width: 65%;
+    }
+    .bg {
+        padding: 5px 15px 30px 15px;
+    }
+    .nav-item .nav-link {
+        font-size: 15px;
+        margin-left: 0px;
+        line-height: 12px;
+    }
+    .navbar-collapse{
+        margin-top: 10px;
+    }
+    .buttonsss a {
+        font-size: 15px;
+        line-height: 40px;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 15px;
+    }
+    .buttonsss {
+        margin-left: 0px; 
+        margin-top: 0px;
+        justify-content: center;
+    }
+    .navbar-collapse {
+        background:rgba(11, 0, 27, 0.603); 
+    }
+    #banner {
+        padding-top: 120px;
+        padding-bottom: 40px;
+        /* overflow: hidden; */
+        overflow-x:clip;
+    }
+    .banner_img {
+        top: 90px;
+        left: -40px;
+    }
+    .banner_texts .img-fluid {
+        max-width: 85%;
+    }
+    .banner_texts h6 {
+        font-size: 10px;
+        margin-left: 15px;
+        margin-bottom: 1px;
+    }
+    .banner_texts p {
+        font-size: 9px;
+        line-height: 14px;
+        width: 146px;
+        margin: 0px 0px 0px 10px;
+        text-align: center;
+    }
+  
+    .btn_play .buttonsss {
+        margin-top: 0px;
+        width: 160px;
+    }
+    .btn_play .btn_log {
+        margin-left: 0px;
+    }
+    #games {
+        padding-top: 60px;
+        padding-bottom: 65px;
+    }
+    .game_overly h1 {
+        margin-top: 40%;
+        margin-bottom: 35px;
+    }
+    #free_spin {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .free_spin_head {
+        padding-left: 27px;
+        padding-right: 27px;
+    }
+    .free_spin_texts p {
+        font-size: 14px;
+        padding-left: 2px;
+        text-align: center;
+        padding-right: 2px;
+    }
+    .claim .game_btn {
+        margin-left: 0px;
+        text-align: center;
+    }
+    .spin_p {
+        padding-top: 17px;
+        padding-bottom: 30px;
+    }
+    .pric_hover_head {
+        width: 100%;
+    }
+    .pric_hover_head h6 {
+        line-height: 44px;
+    }
+    .pric_itm_head {
+        padding-top: 36px;
+    }
+    .pric_itm_head .reg_get_en_texts h4 {
+        margin-bottom: 20px;
+        font-size: 28px;
+    }
+    .pric_itm_head .reg_get_en_texts h5 {
+        font-size: 40px;
+    }
+    .pric_itm_head .reg_get_en_texts p {
+        font-size: 13px;
+        padding-top: 5px;
+        padding-bottom: 18px;
+    }
+    .pric_item_bottom {
+        padding-top: 20px;
+    }
+    .pric_item_bottom p {
+        font-size: 14px;
+        padding-bottom: 24px;
+    }
+    .game_btn a {
+        font-size: 17px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    #pricing_plan {
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+    .pricing_item {
+        padding-bottom: 20px;
+        margin-bottom: 60px;
+    }
+    .chose_btn {
+        bottom: -45px;
+    }
+    .faq_head {
+        text-align: center;
+    }
+    .faq_head img {
+        width: 300px;
+    }
+    .faq_ques h6 {
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 26px;
+    }
+    .faq_ans p {
+        margin-top: 15px;
+    }
+    .faq_body {
+        padding: 10px 10px 10px 15px;
+    }
+    .faq_home_part {
+        margin-bottom: 60px;
+    }
+    
+    .count_down_item h4 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .winner_name p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .offer_head h6 {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+    .offer_head {
+        text-align: center;
+    }
+    .email_sent  {
+        justify-content: center;
+    }
+    .email_input .form-control {
+        width: 242px;
+    }
+    .offer {
+        margin-bottom: 30px;
+    }
+    .payment_cards img {
+        margin-bottom: 15px;
+    }
+    .about_home {
+        margin-bottom: 60px;
+    }
+    .important_links {
+        margin-bottom: 40px;
+    }
+    .foot_links_list a {
+        margin-bottom: 15px;
+    }
+    .footer_border {
+        margin-top: 10px;
+    }
+    .reg {
+        height: 91px;
+        width: 33.33%;
+    }
+    .reg_get_en_texts img {
+        padding-top: 8px;
+        width: 25px;
+    }
+    .reg_get_en_texts h4 {
+        margin-top: 4px;
+        margin-bottom: 5px;
+        font-size: 16px;
+    }
+    .reg_get_en_texts p {
+        margin-top: 10px;
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .get_red {
+        width: 33.33%;
+        height: 100px;
+    }
+    .get_red .reg_get_en_texts {
+        padding-top: 16px;
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+    .enjoy {
+        width: 33.33%;
+        height: 108px;
+    }
+    .banner_absolute {
+        bottom: -119px;
+    }
+    .enjoy .reg_get_en_texts {
+        padding-top: 24px;
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    .reg_get_en_texts {
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    .country_flag {
+        padding: 0px;
+    }
+}
+
+/* Extra small device end */
+/* ---------------------------------------------------- */
+
+
+/* ===============**** HOME PAGE END ***======= */
+
+/* --------------------------------------------------------------------------------------------------------------------------------- */
+
+/* ===============**** ABOUT US PAGE Start ***======= */
+/* ---------------------------------------------------- */
+/* large device start */
+@media(min-width:992px) and (max-width:1199.98px){
+   
+}
+
+/* large device end */
+/* ---------------------------------------------------- */
+/* Medium  device start */
+@media(min-width:768px) and (max-width:991.98px){
+    #abou_banner {
+        padding-top: 160px;
+    }
+    #abou_banner .banner_absolute {
+        bottom: -320px;
+    }
+    #about_free_spin {
+        padding-top: 130px;
+        padding-bottom: 80px;
+    }
+    #subs_payment {
+        padding-bottom: 32px;
+    }
+}
+
+/* Medium device end */
+/* ---------------------------------------------------- */
+/* Small device start */
+@media(min-width:576px) and (max-width:767.98px){
+    #abou_banner {
+        padding-top: 140px;
+        padding-bottom: 235px;
+    }
+    #abou_banner .banner_absolute {
+        bottom: -315px;
+    }
+    #about_free_spin {
+        padding-top: 112px;
+        padding-bottom: 60px;
+    }
+    .free_spin_head {
+        margin-left: -40px;
+    }
+    .free_spin_texts p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .abuto_card_buttom_button  {
+        flex-flow: column;
+    }
+    .abuto_card_buttom_button .claim {
+        margin-bottom: 30px;
+    }
+   
+
+}
+
+/* Small device end */
+/* ---------------------------------------------------- */
+/* Extra small device start */
+@media(max-width:575.98px){
+    #abou_banner {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+    #about_free_spin {
+        padding-top: 90px;
+        padding-bottom: 60px;
+        background: #0b001b;
+    }
+    .about_card .free_spin_texts {
+        padding-top: 30px;
+        margin-left: -25px;
+    }
+    .about_play .game_btn i {
+        line-height: 38px;
+        width: 40px;
+        margin-right: 5px;
+    }
+    .about_play .game_btn a {
+        font-size: 14px;
+    }
+    .abuto_card_buttom_button .game_btn a {
+        font-size: 18px;
+    }
+    .abuto_card_buttom_button .claim {
+        margin-right: 20px;
+    }
+    .abuto_card_buttom_button .game_btn a {
+        font-size: 15px;
+    }
+    .abuto_card_buttom_button  {
+        justify-content: center;
+    }
+   
+}
+
+/* Extra small device end */
+/* ---------------------------------------------------- */
+
+
+
+/* ===============**** ABOUT US PAGE end ***======= */
+/* --------------------------------------------------------------------------------------------------------------------------------- */
+
+/* ===============**** Games PAGE Start ***======= */
+/* ---------------------------------------------------- */
+/* Extra small device start */
+@media(max-width:575.98px){
+    #games_index {
+        padding-top: 100px;
+        padding-bottom: 40px;
+    }
+}
+
+/* Extra small device end */
+/* ---------------------------------------------------- */
+
+
+
+/* ===============**** GAME PAGE end ***======= */
+
+/* ===============**** Pricing PAGE Start ***======= */
+@media(min-width:768px) and (max-width:991.98px){
+    #member_pricing_plan {
+        padding-top: 140px;
+    }
+    #member_pricing_plan .pricing_item {
+        margin-bottom: 70px;
+    }
+}
+/* small device start */
+
+@media(min-width:576px) and (max-width:767.98px){
+    #member_pricing_plan {
+        padding-top: 170px;
+        padding-bottom: 20px;
+        background: #0b001b;
+    }
+    #member_pricing_plan .pricing_item {
+        margin-bottom: 90px;
+    }
+}
+/* small device start */
+
+/* ---------------------------------------------------- */
+/* Extra small device start */
+@media(max-width:575.98px){
+    #member_pricing_plan {
+        padding-top: 75px;
+    }
+    #member_pricing_plan .pricing_item {
+        margin-bottom: 70px;
+    }
+}
+
+/* Extra small device end */
+/* ---------------------------------------------------- */
+
+
+
+/* ===============****Pricing PAGE end ***======= */
+
+/* ===============**** CONTACT PAGE Start ***======= */
+
+@media(min-width:992px) and (max-width:1199.99px){
+    .contact_item_texts {
+        margin-left: 10px;
+    }
+    .contact_item_texts p {
+        font-size: 16px;
+    }
+    .contact_item_icon a {
+        line-height: 90px;
+        width: 90px;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .contact_item_icon a {
+        line-height: 70px;
+        width: 70px;
+        font-size: 25px;
+    }
+    .contact_item_texts p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .contact_item_texts h6 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .contact_details_overly {
+        padding-top: 200px;
+        padding-bottom: 100px;
+    }
+}
+/* small device start */
+
+@media(min-width:576px) and (max-width:767.98px){
+    .contact_item {
+	margin-bottom: 50px;
+    }
+    .contact_details_overly {
+        padding-top: 160px;
+        padding-bottom: 80px;
+    }
+}
+/* small device start */
+
+/* ---------------------------------------------------- */
+/* Extra small device start */
+@media(max-width:575.98px){
+    .contact_item_icon a {
+        line-height: 80px;
+        width: 80px;
+        font-size: 35px;
+    }
+    .contact_item_texts p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .contact_item_texts h6 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .contact_item {
+        margin-bottom: 40px;
+    }
+    .contact_details_overly {
+        padding-top: 110px;
+        padding-bottom: 70px;
+    }
+    .contact_details_overly {
+	padding-top: 160px;
+	padding-bottom: 80px;
+    }
+}
+
+/* Extra small device end */
+/* ---------------------------------------------------- */
+
+
+
+/* ===============****CONTACT PAGE end ***======= */
